@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <a href="demo/index.html"><b>Online Static Demo</b></a>
+  <a href="https://henryxie2023.github.io/deu2unet_project_page"><b>Online Static Demo</b></a>
 </p>
 
 <img src="figures/visual_comparison.png" alt="Visual comparison of SAR restoration results" width="920" />
@@ -36,7 +36,7 @@ This repository currently serves as the official project page. The complete repr
 
 The static demo provides paired SAR examples with noisy inputs and restored outputs:
 
-[Open the static demo](demo/index.html)
+[Open the static demo](https://henryxie2023.github.io/deu2unet_project_page)
 
 The summary comparison figure above uses six representative samples from the review/demo set.
 
