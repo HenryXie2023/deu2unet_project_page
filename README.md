@@ -30,7 +30,7 @@ This repository currently serves as the official project page. The complete repr
 - Self-supervised restoration setting for SAR imagery where clean references are limited.
 - Dual-branch restoration design for spatial and transform-domain cues.
 - Task-aware fusion intended to retain oil-spill morphology and boundary structure.
-- Static visual demo for quick qualitative inspection without releasing model weights or inference code during review.
+- Static visual demo for quick qualitative inspection.
 
 ## Visual Demo
 
